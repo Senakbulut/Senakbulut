@@ -1,8 +1,8 @@
 ### Hi there, I'm Sena AKBULUT 👋
 
-<img width="520px" height="250" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif">
+<img width="520px" height="250" alignitems="center" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif">
 
-## I'm a Frontend Developer
+## I'm a Front End Developer
 
 - 🌱 I’m currently learning and working front end development
 - 🥅 2020 Goals: Contribute more to Open Source projects
