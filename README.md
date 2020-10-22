@@ -1,20 +1,20 @@
 ### Hi there, I'm Sena AKBULUT 👋
 
-<img width="720px" height="250" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif">
+<img width="520px" height="250" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif">
 
 ## I'm a Frontend Developer
 
-
-- 🌱 I’m currently learning everything 🤣
-- 🏃  I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning and working front end development
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to design websites
 
 
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://user-images.githubusercontent.com/34038741/96874208-897c6d80-147e-11eb-99c6-0477ba9d1c4b.png" />][codepen]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://user-images.githubusercontent.com/34038741/96890412-4a571800-1490-11eb-9938-34a75c9d33a3.png" />][medium]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://user-images.githubusercontent.com/34038741/96890626-7bcfe380-1490-11eb-8369-9e8bae2a108f.png" />][mail]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -24,20 +24,18 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][GQL]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NODE]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MYSQL]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MDB]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GİT]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GHUB]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][T]
 
 <br />
 <br />
@@ -47,19 +45,33 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [WebApp with Container in Docker](https://medium.com/@senaakbulut/webapp-with-container-in-docker-328ac348ac2a)
+- [IP Subnetting in Cisco Packet Tracer](https://medium.com/@senaakbulut/ip-subnetting-in-cisco-packet-tracer-a1322d721369)
+- [DNS and ARP Analyze in Wireshark](https://medium.com/@senaakbulut/dns-and-arp-analyze-in-wireshark-35f681a0aec1)
+- [Wİ-Fİ EASYMESH](https://medium.com/@senaakbulut/wi%CC%87-fi%CC%87-easymesh-1aee8248c286)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/@senaakbulut)
 
 ---
+![Sena's github stats](https://github-readme-stats.vercel.app/api?username=Senakbulut&hide=contribs,prs)
 
-
-
+[T]:https://linux.org.tr/
+[GHUB]:https://github.com/Senakbulut
+[GİT]:https://git-scm.com/
+[MDB]:https://www.mongodb.com/
+[MYSQL]:https://www.mysql.com/
+[SQL]:https://www.postgresql.org/
+[NODE]:https://nodejs.org/en/
+[GQL]:https://graphql.org/
+[React]:https://tr.reactjs.org/
+[JS]:https://www.javascript.com/
+[CSS]:https://www.w3.org/Style/CSS/Overview.en.html
+[HTML]:https://html.com/
 [VSCode]:https://code.visualstudio.com/
-[medium]: https://codeSTACKr.com
+[medium]: https://medium.com/@senaakbulut
 [codepen]: https://codepen.io/senakblt
-[mail]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[mail]: senaakbulut16@gmail.com
+[twitter]: https://twitter.com/Sena_Akbulut_
+[instagram]: https://www.instagram.com/senakbulut_/
+[linkedin]: https://www.linkedin.com/in/senaakbulut
