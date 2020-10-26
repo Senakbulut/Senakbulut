@@ -72,7 +72,7 @@
 [VSCode]:https://code.visualstudio.com/
 [medium]: https://medium.com/@senaakbulut
 [codepen]: https://codepen.io/senakblt
-[mail]: senaakbulut16@gmail.com
+[mail]: mailto:senaakbulut16@gmail.com
 [twitter]: https://twitter.com/Sena_Akbulut_
 [instagram]: https://www.instagram.com/senakbulut_/
 [linkedin]: https://www.linkedin.com/in/senaakbulut
