@@ -1,4 +1,4 @@
-### Hi there, I'm Sena AKBULUT<img src="https://user-images.githubusercontent.com/34038741/97170876-7da1eb80-179d-11eb-951c-9dfcc19a6d6e.gif" width="30px">
+### Hi there, I'm Sena AKBULUT <img src="https://user-images.githubusercontent.com/34038741/97170876-7da1eb80-179d-11eb-951c-9dfcc19a6d6e.gif" width="30px">
 
 
 <img width="520px" height="250" alignitems="center" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif">
