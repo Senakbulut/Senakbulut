@@ -28,6 +28,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
+[<img align="left" alt="Vue" width="26px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][Vue]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][GQL]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NODE]
@@ -46,10 +48,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WebApp with Container in Docker](https://medium.com/@senaakbulut/webapp-with-container-in-docker-328ac348ac2a)
-- [IP Subnetting in Cisco Packet Tracer](https://medium.com/@senaakbulut/ip-subnetting-in-cisco-packet-tracer-a1322d721369)
-- [DNS and ARP Analyze in Wireshark](https://medium.com/@senaakbulut/dns-and-arp-analyze-in-wireshark-35f681a0aec1)
-- [Wİ-Fİ EASYMESH](https://medium.com/@senaakbulut/wi%CC%87-fi%CC%87-easymesh-1aee8248c286)
+- [Custom Directives](https://senaakbulut.medium.com/custom-directives-9962fa810f9a)
+- [CSS Grid Layout](https://medium.com/star-gazers/css-grid-layout-ef82a7c6b85c)
+- [Vue JS Directives](https://senaakbulut.medium.com/vue-js-directives-6e4ead723c9e)
+- [WebApp with Container in Docker](https://senaakbulut.medium.com/webapp-with-container-in-docker-328ac348ac2a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@senaakbulut)
@@ -65,6 +67,7 @@
 [SQL]:https://www.postgresql.org/
 [NODE]:https://nodejs.org/en/
 [GQL]:https://graphql.org/
+[Vue]:https://vuejs.org/
 [React]:https://tr.reactjs.org/
 [JS]:https://www.javascript.com/
 [CSS]:https://www.w3.org/Style/CSS/Overview.en.html
