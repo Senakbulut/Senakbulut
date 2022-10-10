@@ -6,7 +6,7 @@
 ## I'm a Front End Developer
 
 - 🌱 I’m currently learning and working front end development
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design websites
 
 
